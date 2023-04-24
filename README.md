@@ -9,7 +9,7 @@ Busco constantemente nuevos desafíos y oportunidades para cumplir metas.
 
 # ¿Qué Hago?
 
-Actualmente me encuentro estudiando la **Tecnicatura en Desarrollo de Aplicaciones Informáticas**, y perfeccionar mis conocimientos sobre las herramientas que he utilizado.
+Actualmente me encuentro estudiando la **Tecnicatura en Desarrollo de Aplicaciones Informáticas**, y perfeccionando mis conocimientos sobre las herramientas que he utilizado.
 
 # ¿Cuál en mi objetivo?
 
