@@ -33,7 +33,7 @@ Las principales Tecnologías que manejo son:
 - Docker
 - Machine Learning
 
-Entre otras herramientas tambiém tengo conocimiento en el paquete de Microsoft, incluyendo Excel, Word y PowerPoint.
+Entre otras herramientas también tengo conocimiento en el paquete de Microsoft, incluyendo Excel, Word y PowerPoint.
 
 -----------------------------------------------------------------------------------------------------------------------------------------
 
